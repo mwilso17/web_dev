@@ -1,11 +1,12 @@
 body {
-  background-color: black;
+  background-color: white;
 }
 
 h1, h2, h3 {
-  color: green;
+  color: blue;
 }
 
 p {
-  color: greenyellow;
+  color: Black;
+  font: 14px
 }
